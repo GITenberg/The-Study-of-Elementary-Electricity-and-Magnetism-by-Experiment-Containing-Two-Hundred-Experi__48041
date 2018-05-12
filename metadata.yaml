@@ -1,4 +1,8 @@
 _repo: The-Study-of-Elementary-Electricity-and-Magnetism-by-Experiment-Containing-Two-Hundred-Experi__48041
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48041-h/images/i_cover.jpg
 creator:
   author:
     agent_name: St. John, Thomas M. (Thomas Matthew)
@@ -9,6 +13,8 @@ creator:
     gutenberg_agent_id: '33278'
     url: http://www.gutenberg.org/2009/agents/33278
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48041#The-Study-of-Elementary-Electricity-and-Magnetism-by-Experiment-Containing-Two-Hundred-Experi_
 gutenberg_issued: '2015-01-22'
 gutenberg_type: Text
 identifiers:
